@@ -1,2 +1,2 @@
-# My Droid and I
+# .github
 Public organization profile
