@@ -4,12 +4,3 @@ Our organization is a software development company specializing in creating inno
 
 At our core, we are passionate about open source software and we believe that collaboration and community are key to driving innovation in the tech industry. That's why we're committed to sharing our knowledge and contributing to the open source community on platforms like GitHub.
 
-<img alt="My Droid and I" src="my-droid-and-i-01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
-<img alt="My Droid and I" src="my_droid_and_i_01.jpg?raw=true" width="170" height="170" />
